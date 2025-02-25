@@ -12,3 +12,5 @@ z=a/b
 
 q=a*b
 
+# percentile function
+ w=a%b
