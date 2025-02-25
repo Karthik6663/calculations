@@ -8,3 +8,9 @@ y=a-b
 
 z=a/b
 
+# multiplication function 
+
+q=a*b
+
+# percentile function
+ w=a%b
