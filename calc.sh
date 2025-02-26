@@ -8,7 +8,6 @@ y=a-b
 
 z=a/b
 
-# multiplication function 
 
 q=a*b
 
@@ -16,3 +15,4 @@ q=a*b
  w=a%b
 
  #this is the end project
+
